@@ -1,0 +1,62 @@
+#reg{
+	width:50%;
+	margin:0 auto;
+	height:450px;
+	background:aliceblue;
+}
+.main_popup .s5{background-color:#0a0b2d;
+    border-bottom: 6.7px solid #163c33;
+    float: left;
+    color: aqua;
+    margin-top: 0px;
+    padding: 10px 0 0;
+width: 100%;}
+	#login_register_container {
+    background: #ffffff none repeat scroll 0 0;
+    clear: both;
+    float: left;
+    padding-top: 15px;
+    width: auto;
+}
+ul li.active{
+	background:#007ba7;
+}
+#login_register_container{
+	margin:450px;
+	margin:0 auto;
+	width:60%;
+	background:#ace1af;
+	float:left;
+	height:348px;
+	text-align:center;text-shadow:0.6px 0.6px 0.6px grey;letter-spacing:0.6px;
+}
+#login_register_container .social {
+    float: none;
+    margin: 0 auto;
+width: 310px;}
+#login_register_container .login-seprator {
+    clear: both;
+    float: left;
+    line-height: 5px;
+    margin-top: 8px;
+width: 100%;}
+#register_benefits{
+	left:22px;
+	position:relative;
+	top:100px;
+}
+#register_benefits ul,.s5 ul{
+	list-style:none;
+}
+#register_benefits ul li{
+	padding:10px;
+	transition:2s ease-in-out;font-family:cursive;
+}
+.s5 ul li{float:left;
+padding:10px;letter-spacing:0.8px;word-spacing:3px;}
+.s5 ul li:first-child{border:1px solid grey;
+	border-bottom:0px;margin-right:29px;
+}button{padding:6px;color:whitesmoke;background:purple;}#error_msg{color:red;}.crs{
+	position:relative;
+	top:-15px;left:665px;
+}
